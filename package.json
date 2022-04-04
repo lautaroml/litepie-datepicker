@@ -65,7 +65,7 @@
     "dayjs": "^1.10.4",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-prettier": "^3.3.1",
-    "litepie-datepicker": "^1.0.13",
+    "litepie-datepicker": "https://github.com/lautaroml/litepie-datepicker.git",
     "minimist": "^1.2.5",
     "postcss": "^8.4.12",
     "prismjs": "^1.23.0",
